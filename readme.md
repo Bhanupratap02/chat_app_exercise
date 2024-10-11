@@ -25,7 +25,7 @@ This project implements a responsive chat interface using **React**, **Redux**, 
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/responsive-chat-interface.git
+git clone https://github.com/Bhanupratap02/chat_app_exercise.git
 cd responsive-chat-interface
 ```
 
