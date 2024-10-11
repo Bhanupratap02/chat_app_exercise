@@ -1,3 +1,4 @@
+<img width="1318" alt="Screenshot 2024-10-11 at 11 48 08 AM" src="https://github.com/user-attachments/assets/7c9ab6e1-8bfb-4bc2-a5df-4da57fc28eaf">
 
 # Responsive Chat Interface
 
